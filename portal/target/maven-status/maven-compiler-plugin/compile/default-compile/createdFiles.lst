@@ -1,0 +1,8 @@
+com/portal/controller/CustomerController.class
+com/portal/entity/Product.class
+com/portal/repository/ProductRepository.class
+com/portal/repository/CustomerRepository.class
+com/portal/request/OrderRequest.class
+com/portal/entity/Customer.class
+com/portal/controller/ProductController.class
+com/portal/base/PortalStartup.class

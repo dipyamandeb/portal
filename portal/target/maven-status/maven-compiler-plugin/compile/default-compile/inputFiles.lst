@@ -1,0 +1,8 @@
+/home/dipyaman/setup/git/firstRand/portal/src/main/java/com/portal/controller/ProductController.java
+/home/dipyaman/setup/git/firstRand/portal/src/main/java/com/portal/base/PortalStartup.java
+/home/dipyaman/setup/git/firstRand/portal/src/main/java/com/portal/request/OrderRequest.java
+/home/dipyaman/setup/git/firstRand/portal/src/main/java/com/portal/repository/CustomerRepository.java
+/home/dipyaman/setup/git/firstRand/portal/src/main/java/com/portal/entity/Customer.java
+/home/dipyaman/setup/git/firstRand/portal/src/main/java/com/portal/entity/Product.java
+/home/dipyaman/setup/git/firstRand/portal/src/main/java/com/portal/controller/CustomerController.java
+/home/dipyaman/setup/git/firstRand/portal/src/main/java/com/portal/repository/ProductRepository.java
